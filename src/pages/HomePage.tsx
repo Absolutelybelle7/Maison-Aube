@@ -28,7 +28,7 @@ export default function HomePage() {
         />
         <div className="absolute inset-0 -z-10 bg-gradient-to-t from-primary-900 via-primary-900/55 to-primary-900/10" />
         <div className="mx-auto w-full max-w-7xl px-6 pb-20 pt-40 lg:px-10 lg:pb-28">
-          <p className="eyebrow text-accent-300 animate-fade-in">Midtown Manhattan</p>
+          <p className="eyebrow text-accent-300 animate-fade-in">East Cantoments</p>
           <h1 className="mt-6 max-w-4xl text-6xl leading-[1.04] text-secondary-50 animate-fade-in sm:text-7xl lg:text-8xl">
             Quiet luxury for hair, skin and scalp.
           </h1>
